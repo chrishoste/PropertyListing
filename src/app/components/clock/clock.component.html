@@ -1,0 +1,9 @@
+
+  <div class="jumbotron text-center" style="cursor:pointer" (click)="onClick()">
+  <div class="container">
+    <h1> {{date | date:'HH:mm:ss'}}</h1> 
+    <h1> {{testDate | date:'HH:mm:ss'}}</h1> 
+    <h1 *ngIf="newDate"> {{newDate | date:'HH:mm:ss'}}</h1> 
+    <h1 *ngIf="diffDate"> {{diffDate | date:'HH:mm:ss'}}</h1> 
+  </div>
+</div>
