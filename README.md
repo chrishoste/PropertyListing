@@ -8,10 +8,13 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Install dependencies
 Run `npm install` to install all dependencies, that I used during this exercies.
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class`.
+## Screenshots
 
-## Build
+<img width="1015" alt="bildschirmfoto 2017-04-02 um 15 37 01" src="https://cloud.githubusercontent.com/assets/22995847/24587738/51246798-17bc-11e7-88f4-e95427810775.png">
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+<img width="1015" alt="bildschirmfoto 2017-04-02 um 15 37 17" src="https://cloud.githubusercontent.com/assets/22995847/24587739/533a4e3a-17bc-11e7-9d9e-cc8739c2b0b9.png">
+
+<img width="1013" alt="bildschirmfoto 2017-04-02 um 15 40 21" src="https://cloud.githubusercontent.com/assets/22995847/24587741/57852186-17bc-11e7-929f-f80b7a0f96ea.png">
+
+<img width="1015" alt="bildschirmfoto 2017-04-02 um 15 41 04" src="https://cloud.githubusercontent.com/assets/22995847/24587742/5b801e30-17bc-11e7-99e0-7e98746f6f78.png">
